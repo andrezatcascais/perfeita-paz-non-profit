@@ -10,7 +10,7 @@ This is a social project focused on evangelization groups in vulnerable areas, h
 
 Deploy in production by: https://app.netlify.com/
 
-**Stack:** React / Node.js / Tailwind / CSS
+**Stack:** React / HTML / CSS / Tailwind / CSS
 
 **>> Our second version will include additional functionalities:**
 - A presentation page.
